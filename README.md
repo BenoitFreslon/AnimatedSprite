@@ -2,6 +2,8 @@
 ==============
 By Benoît Freslon: http://www.benoitfreslon.com
 
+Please send me feebacks ;).
+
 ##About
 Handle your animations with your spritesheets atlases with [cocos2d-iphone 2.0](http://www.cocos2d-iphone.org/).
 A simple class with simple methods: init, start, stop, restart, ...
@@ -38,4 +40,4 @@ AnimatedSprite *pig = [AnimatedSprite spriteWithSpriteFrameName:@"pig_walk.swf/0
 ```
 
 ##Help
-See the comments in AnimatedSprite.h
+See comments in AnimatedSprite.h
